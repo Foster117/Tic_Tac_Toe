@@ -1,0 +1,14 @@
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.config
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.pdb
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csprojResolveAssemblyReference.cache
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\MainWindow.g.cs
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\App.g.cs
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe_MarkupCompile.cache
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe_MarkupCompile.lref
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\MainWindow.baml
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.g.resources
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.GenerateResource.Cache
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe
+F:\My_Projects\Tic_Tac_Toe\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.pdb
